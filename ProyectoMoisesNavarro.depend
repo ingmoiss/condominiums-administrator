@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1598846719 source:d:\uned\materias\segundo cuatrimestre 2020\introducción a la programación\proyecto\proyectomoisesnavarro\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstring>
+	<windows.h>
+	<cstdlib>
+
